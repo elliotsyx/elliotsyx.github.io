@@ -1,0 +1,15 @@
+---
+title: "Yixiao Sun's Amazing Webiste"
+author: "Elliot Sun"
+date: "2023-10-30"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cerulean
+---
+# This is Yixiao Sun's website:
+![](https://media.giphy.com/media/ltIFdjNAasOwVvKhvx/giphy-downsized.gif)
+
+
+Hi! Welcome to my amazing website. This awesome place including everything you want to know about me...Well, maybe just a little bit.

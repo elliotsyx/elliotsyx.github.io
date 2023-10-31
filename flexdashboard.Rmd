@@ -7,3 +7,37 @@ output:
     theme: cerulean
 ---
 
+
+
+```{r}
+library(tidyverse)
+library(p8105.datasets)
+
+library(plotly)
+data('instacart')
+```
+
+```{r}
+ins_department <- instacart %>%
+  group_by(user_id) %>% 
+  select(order_id, department, user_id, reordered, order_number,add_to_cart_order) %>% 
+  filter(reordered == 1) %>%
+  filter(order_id <= 10000)
+
+ins_department %>% 
+  plot_ly(x = ~ department, y = ~ order_number, type = "scatter", color = ~ order_number)
+```
+
+
+```{r}
+ins_department %>%
+  mutate(department = fct_reorder(department, order_number)) %>%
+  plot_ly(y = ~order_number, color = ~department, type = "box")
+```
+```{r}
+ins_department %>%
+  count(department) %>%
+  mutate(department = fct_reorder(department, n)) |> 
+  plot_ly(x = ~department, y = ~n, color = ~department, type = "bar", colors = "viridis")
+```
+

@@ -1,5 +1,5 @@
 ---
-title: "resume"
+title: "Resume"
 output: 
   html_document:
     toc: true
@@ -11,30 +11,43 @@ Yixiao Sun
 
 # Education:
 
-Boston University Cumulative GPA: 3.76/4.0
-09/2019-present
+Boston University 
+
+Cumulative GPA: 3.76/4.0
+
+09/2019-05/2023
+
 Major: Psychology
+
 Relevant Courses: General Psychology, Physiological Psychology, Social Psychology, Memory Systems, Perception, Abnormal Psychology, Drugs & Behavior, Perception Experimentation, Social Psychology Experimentation, Psychology and Criminal Justice, Trends in Contemporary Psychology
 
 Minor: Mathematics
+
 Relevant Courses: Statistics 1&2, Calculus 1&2, Linear Algebra, Multivariate Calculus, Differential Equations, Stochastic Methods, Programming in R, Analysis of Variance
 
 Other Skills gained from coursework:
+
 Python (Intro Computing, Intro. to Computer Science I), Design Strategy in Photoshop, InDesign and Illustrator (CM 501)
 
-Google Data Analytics Professional Certificate 06/2022-08/2022 Skills learned: SQL, R, Tableau (data visualization), Excel (data summary and cleaning) Completed Google Career Certificate training to build technical skills in data analysis Curriculum included data cleaning, data visualization, project management, and data analytics with the goal of developing the ability to transform complex data into actionable insights
+Google Data Analytics Professional Certificate 
+
+06/2022-08/2022
+
+Skills learned: SQL, R, Tableau (data visualization), Excel (data summary and cleaning) Completed Google Career Certificate training to build technical skills in data analysis Curriculum included data cleaning, data visualization, project management, and data analytics with the goal of developing the ability to transform complex data into actionable insights
 
 # Relevant Research Experience
 
 Programming in R Group Project with Professor Daniel Susan at Boston University
+
 9/2022-12/2022 
 
-Project involved determining the factors that increase the likelihood of having a highway-rail
-grade crossing accident, with focus on finding root causes. Designed case study research on a large database of Highway-Rail Grade Crossing Accident using RStudio. Work included cleaning and analyzing over 2 million data points Used linear regression modeling to verify results from calculations of Massachusetts Monthly Traffic Volume over the past 6 years; merged original data with updated dataset to create useable resource for future researchers
+Project involved determining the factors that increase the likelihood of having a highway-rail grade crossing accident, with focus on finding root causes. Designed case study research on a large database of Highway-Rail Grade Crossing Accident using RStudio. Work included cleaning and analyzing over 2 million data points Used linear regression modeling to verify results from calculations of Massachusetts Monthly Traffic Volume over the past 6 years; merged original data with updated dataset to create useable resource for future researchers
 
 
 
-Human Perception Labs with Professor Sam Ling at Boston University 9/2022-12/2022 
+Human Perception Labs with Professor Sam Ling at Boston University 
+
+9/2022-12/2022 
 
 Completed 7 Psychology Experiments on human perception using “MATLAB with Psychophysics toolbox,” including Muller-Lyer illusion, Visual Search, Lightness Illusion and Motion Aftereffects
 
@@ -45,7 +58,9 @@ Conducted a DIY research experiment on the effect of visual impairment on motor 
 
 # Internship Experience
 
-Lingxin Intelligence, Intern Data Analyst 12/2021-03/2022
+Lingxin Intelligence, Intern Data Analyst 
+
+12/2021-03/2022
 
 Helped design AI program to offer virtual/simulated mental therapy for patients who cannot access standard therapy services
 Work included analysis of the linguistic system and dialogue to improve robot’s accuracy, translation of dialogue into formal English, and creation of test cases for development and refinement.
@@ -53,14 +68,18 @@ Work included analysis of the linguistic system and dialogue to improve robot’
 Constructed and revised 5000+ Chinese dialogue datasets to train Conversational AI emotional chatting machine in communication skills
 
 
-USTest Educational Center, Intern Data Analyst 04/2020-07/2021 
+USTest Educational Center, Intern Data Analyst 
+
+04/2020-07/2021 
 
 Created a website for study abroad students who needed access to practice exams and content review material for coursework preparation.
 
 Analyzed 8000 blocks of data per day to improve USTest’s database efficiency and accuracy Used data visualization to summarize difficult mathematics concepts with infographics (diagrams, scatter-pots, and pie-charts) to improve student retention and understanding Categorized data by question type to help users identify relevant source material for test prep.
 
 
-GreatChina Studyabroad Testing Center, English Teaching Assistant 03/2019-06/2021 
+GreatChina Studyabroad Testing Center, English Teaching Assistant 
+
+03/2019-06/2021 
 
 Managed the learning process and assignments for 120+ high school and college students studying English, including providing guidance on assessments.
 
@@ -71,8 +90,16 @@ Provided guidance to 300+ test takers on maintaining mental wellness, including 
 
 # Clubs and Interests
 
-Boston University Chinese Student Scholars Association 08/2020-03/2022 As member of Recreation Department: organized social programs, festival celebrations, and cultural sharing activities for over 1500 Chinese international students at Boston
+Boston University Chinese Student Scholars Association 
+
+08/2020-03/2022
+
+As member of Recreation Department: organized social programs, festival celebrations, and cultural sharing activities for over 1500 Chinese international students at Boston
 
 
-Boston University International Student Mentors 06/2022-present
+Boston University International Student Mentors 
+
+06/2022-present
+
+
 Held monthly meetings for incoming freshman students to assist them in adapting Boston University’s academic and cultural life

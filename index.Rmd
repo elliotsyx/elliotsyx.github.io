@@ -2,17 +2,6 @@
 title: "Yixiao Sun's Amazing Webiste"
 author: "Elliot Sun"
 date: "2023-10-30"
-navbar:
-  title: "Home"
-  right:
-    - text: "About"
-      href: about.html
-    - text: "Resume"
-      href: resume.html
-    - icon: fa-envelope fa-lg
-      href: mailto:<you@youremail.com>
-    - icon: fa-github fa-lg
-      href: http://github.com/<YOUR_GH_NAME>/
 output: 
   html_document:
     toc: true
@@ -24,3 +13,5 @@ output:
 
 
 Hi! Welcome to my amazing website. This awesome place including everything you want to know about me...Well, maybe just a little bit. This [about](about.html) site provides my personal contact info in order if you ever need me. And a [resume](resume.html) site which includes my personal academic and professional experience.
+
+Here are my [flexdashboard](flexdashboard.html)

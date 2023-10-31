@@ -9,7 +9,8 @@ output:
 
 Yixiao Sun
 
-Education
+# Education:
+
 Boston University Cumulative GPA: 3.76/4.0
 09/2019-present
 Major: Psychology
@@ -23,7 +24,7 @@ Python (Intro Computing, Intro. to Computer Science I), Design Strategy in Photo
 
 Google Data Analytics Professional Certificate 06/2022-08/2022 Skills learned: SQL, R, Tableau (data visualization), Excel (data summary and cleaning) Completed Google Career Certificate training to build technical skills in data analysis Curriculum included data cleaning, data visualization, project management, and data analytics with the goal of developing the ability to transform complex data into actionable insights
 
-Relevant Research Experience
+# Relevant Research Experience
 
 Programming in R Group Project with Professor Daniel Susan at Boston University
 9/2022-12/2022 
@@ -42,7 +43,7 @@ Designed own perception experiments based on adjusting parameters and conditions
 Conducted a DIY research experiment on the effect of visual impairment on motor task completion; study evaluated the research question concerning if adaption of adaption will improve participants’ accuracy of shooting a dart to a target
 
 
-Internship Experience
+# Internship Experience
 
 Lingxin Intelligence, Intern Data Analyst 12/2021-03/2022
 
@@ -68,7 +69,7 @@ Provided guidance to 300+ test takers on maintaining mental wellness, including 
 
 
 
-Clubs and Interests
+# Clubs and Interests
 
 Boston University Chinese Student Scholars Association 08/2020-03/2022 As member of Recreation Department: organized social programs, festival celebrations, and cultural sharing activities for over 1500 Chinese international students at Boston
 

@@ -1,21 +1,24 @@
 ---
 title: "flexdashboard"
 output: 
-  html_document:
-    toc: true
-    toc_float: true
-    theme: cerulean
+  flexdashboard::flex_dashboard:
+    orientation: columns
+    vertical_layout: fill
 ---
 
-
-
-```{r}
+```{r setup, include=FALSE}
+library(flexdashboard)
 library(tidyverse)
 library(p8105.datasets)
 
 library(plotly)
 data('instacart')
 ```
+
+Column {data-width=650}
+-----------------------------------------------------------------------
+
+### Chart A
 
 ```{r}
 ins_department <- instacart %>%
@@ -28,16 +31,25 @@ ins_department %>%
   plot_ly(x = ~ department, y = ~ order_number, type = "scatter", color = ~ order_number)
 ```
 
+Column {data-width=350}
+-----------------------------------------------------------------------
+
+### Chart B
 
 ```{r}
 ins_department %>%
   mutate(department = fct_reorder(department, order_number)) %>%
   plot_ly(y = ~order_number, color = ~department, type = "box")
 ```
+
+### Chart C
+
 ```{r}
 ins_department %>%
   count(department) %>%
   mutate(department = fct_reorder(department, n)) |> 
   plot_ly(x = ~department, y = ~n, color = ~department, type = "bar", colors = "viridis")
 ```
+
+
 
